@@ -1,0 +1,15 @@
+.book-Name{
+
+    background-color: aliceblue;
+
+    border: 1px darkblue;
+    align-items: center;
+    width: fit-content;
+}
+.card{
+    background-color: aliceblue;
+}
+
+#loader {
+    display: none;
+}
